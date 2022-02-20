@@ -1,0 +1,4 @@
+.env
+env
+adminApp/__pycache__
+userApp/__pycache__
